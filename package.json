@@ -29,7 +29,7 @@
     "gulp-util": "^3.0.1",
     "vinyl-sourcemaps-apply": "^0.1.4",
     "through2": "^0.6.3",
-    "pleeease": "^3.2.0"
+    "pleeease": "sasrai/pleeease#bdb9d47b"
   },
   "devDependencies": {
     "gulp": "^3.8.11",
